@@ -1,11 +1,11 @@
+### ✨ Hi there 👋 ✨
+
 <div align="center">
 <img src="https://octodex.github.com/images/topguntocat.png" align="left" style="width: 30%"/>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right|top" style="width: 65%" />
 </div> 
 
-### ✨ Hi there 👋 ✨
-
-### <div align="center">I'm Niko Zhong, an Android developer.</div>  
+### <div align="center">I'm Niko Zhong, an Android developer. Also interested in Linux, KVM, QEMU and tech of container.</div>  
 
 <p align="center">
     <b><a href="https://nasdaqgodzilla.github.io/">Blog</a></b>
