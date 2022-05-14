@@ -10,8 +10,10 @@
 <p align="center">
     <b><a href="https://nasdaqgodzilla.github.io/">Blog</a></b>
 </p>
-  
-- - 📫 How to reach me:
+    
+<br/>
+
+## 📫 Connect with me
 <div align="center">
     <a href="https://juejin.cn/user/1253888000539070" target="_blank">
         <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91Juejin-%E9%A3%9E%E8%B5%B7%E6%9D%A5__%E9%A3%9E%E8%BF%87%E6%9D%A5-blue?style=social&logo=appveyor" />
@@ -20,10 +22,9 @@
         <img src="https://img.shields.io/badge/CSDN-%E9%95%87%E4%B8%8A%E6%9D%91%E6%A0%91-red" />
     </a>
 </div>
-    
+
 <br/>
 
-## Connect with me
 <div align="center">
 <a href="https://github.com/NasdaqGodzilla" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
