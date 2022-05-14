@@ -7,6 +7,10 @@
 ### ✨ Hi there 👋 ✨
 
 ### <div align="center">I'm Niko Zhong, an Android developer.</div>  
+
+<p align="center">
+    <b><a href="https://nasdaqgodzilla.github.io/">Blog</a></b>
+</p>
   
 - - 📫 How to reach me:   
 
