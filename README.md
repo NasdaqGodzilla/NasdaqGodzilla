@@ -114,3 +114,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
+
+## My Contribution snake
+![Contribution snake example](https://github.com/NasdaqGodzilla/NasdaqGodzilla/blob/output/github-contribution-grid-snake.svg)
