@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://octodex.github.com/images/topguntocat.png" align="left" style="width: 30%"/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right|top" style="width: 65%" />
 </div> 
-
-----
 
 ### ✨ Hi there 👋 ✨
 
