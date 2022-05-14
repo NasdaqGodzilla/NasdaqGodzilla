@@ -81,7 +81,7 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=NasdaqGodzilla&&style=flat-square" align="canter" />
     <img src="https://profile-counter.glitch.me/NasdaqGodzilla/count.svg" align="center" />
-    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NasdaqGodzilla" /></a>
+    <img src="https://count.getloli.com/get/@:NasdaqGodzilla" alt=":NasdaqGodzilla" />
 </div> 
 
 <br/>
