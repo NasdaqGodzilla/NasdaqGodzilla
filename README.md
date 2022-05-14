@@ -13,8 +13,6 @@
   
 - - 📫 How to reach me:   
 
-----
-
 <br/>
 
 ## Connect with me
@@ -36,8 +34,8 @@
 
 <br/>  
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Skill Set  
+<table align="center"><tr><td valign="top" align="center">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -48,7 +46,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="center">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
@@ -57,7 +55,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="center">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
@@ -72,13 +70,19 @@
 
 ----
 
-## Github Stats  
+## Github Stats
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=NasdaqGodzilla&column=7" align="center"/>
+</div>
+
+<br/>  
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NasdaqGodzilla&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasdaqGodzilla&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=NasdaqGodzilla&&style=flat-square" align="canter" />
+    <img src="https://komarev.com/ghpvc/?username=NasdaqGodzilla&&style=flat-square" align="center" />
     <img src="https://profile-counter.glitch.me/NasdaqGodzilla/count.svg" align="center" />
     <img src="https://count.getloli.com/get/@:NasdaqGodzilla" alt=":NasdaqGodzilla" />
 </div> 
