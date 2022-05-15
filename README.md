@@ -101,8 +101,12 @@
 ----
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [使用iRingo解锁Apple News](https://nasdaqgodzilla.github.io/2022/04/24/%E4%BD%BF%E7%94%A8iRingo%E8%A7%A3%E9%94%81Apple-News/)
+- [GDB教程: 命令速查手册](https://nasdaqgodzilla.github.io/2022/04/22/GDB%E6%95%99%E7%A8%8B-%E5%91%BD%E4%BB%A4%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C/)
+- [Android性能优化: 定性和定位Android图形性能问题——以后台录屏的性能优化为例](https://nasdaqgodzilla.github.io/2022/04/22/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96-%E5%AE%9A%E6%80%A7%E5%92%8C%E5%AE%9A%E4%BD%8DAndroid%E5%9B%BE%E5%BD%A2%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98%E2%80%94%E2%80%94%E4%BB%A5%E5%90%8E%E5%8F%B0%E5%BD%95%E5%B1%8F%E7%9A%84%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%BA%E4%BE%8B/)
+- [Android平台GPU负载计算、分析方法](https://nasdaqgodzilla.github.io/2022/04/20/Android%E5%B9%B3%E5%8F%B0GPU%E8%B4%9F%E8%BD%BD%E8%AE%A1%E7%AE%97%E3%80%81%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95/)
+- [Android图形层垂直同步虚拟VSYNC机制](https://nasdaqgodzilla.github.io/2022/04/20/Android%E5%9B%BE%E5%BD%A2%E5%B1%82%E5%9E%82%E7%9B%B4%E5%90%8C%E6%AD%A5%E8%99%9A%E6%8B%9FVSYNC%E6%9C%BA%E5%88%B6/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
