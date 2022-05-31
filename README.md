@@ -9,6 +9,8 @@
 
 <p align="center">
     <b><a href="https://nasdaqgodzilla.github.io/">&lt;✨Blog✨&gt;</a></b>
+    <b>🔸</b>
+    <b><a href="https://github.com/NasdaqGodzilla/AndroidStudioInDocker">&lt;⭐AndroidStudioInDocker⭐&gt;</a></b>
 </p>
     
 <br/>
