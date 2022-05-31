@@ -1,14 +1,14 @@
 ### ✨ Hi there 👋 ✨
 
-<div align="center">
-<img src="https://octodex.github.com/images/topguntocat.png" align="left" style="width: 30%"/>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="right|top" style="width: 65%" />
-</div> 
+<table><tr>
+    <td><img src="https://octodex.github.com/images/topguntocat.png" align="left" /></td>
+    <td><img src="https://rishavanand.github.io/static/images/greetings.gif" align="right|top"/></td>
+</tr></table>
 
 ### <div align="center">I'm Niko Zhong, an Android developer. Also interested in Linux, KVM, QEMU and tech of container.</div>  
 
 <p align="center">
-    <b><a href="https://nasdaqgodzilla.github.io/">Blog</a></b>
+    <b><a href="https://nasdaqgodzilla.github.io/">&lt;✨Blog✨&gt;</a></b>
 </p>
     
 <br/>
