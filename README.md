@@ -8,6 +8,8 @@
 ### <div align="center">I'm Niko Zhong, an Android developer. Also interested in Linux, KVM, QEMU and tech of container.</div>  
 
 <p align="center">
+    <b><a href="https://github.com/NasdaqGodzilla/FrameworkInjector">&lt;🌟FrameworkInjector🌟&gt;</a></b>
+    <b>🔸</b>
     <b><a href="https://nasdaqgodzilla.github.io/">&lt;✨Blog✨&gt;</a></b>
     <b>🔸</b>
     <b><a href="https://github.com/NasdaqGodzilla/AndroidStudioInDocker">&lt;⭐AndroidStudioInDocker⭐&gt;</a></b>
