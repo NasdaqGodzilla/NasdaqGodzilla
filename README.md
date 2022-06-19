@@ -106,11 +106,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Android startService启动流程详解](https://nasdaqgodzilla.github.io/2022/06/07/Android-startService%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
-- [UML基础速查手册](https://nasdaqgodzilla.github.io/2022/06/04/UML%E5%9F%BA%E7%A1%80%E9%80%9F%E6%9F%A5%E6%89%8B%E5%86%8C/)
-- [git批量修改全部提交的提交信息、作者名称、邮箱](https://nasdaqgodzilla.github.io/2022/06/01/git%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E5%85%A8%E9%83%A8%E6%8F%90%E4%BA%A4%E7%9A%84%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E3%80%81%E4%BD%9C%E8%80%85%E5%90%8D%E7%A7%B0%E3%80%81%E9%82%AE%E7%AE%B1/)
-- [AndroidStudio in Docker: 使用文档](https://nasdaqgodzilla.github.io/2022/05/31/AndroidStudio-in-Docker-%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3/)
-- [Docker as As DaaS: 在Docker中运行的AndroidStudio](https://nasdaqgodzilla.github.io/2022/05/31/Docker-as-As-DaaS-%E5%9C%A8Docker%E4%B8%AD%E8%BF%90%E8%A1%8C%E7%9A%84AndroidStudio/)
+- [Android unbindService流程与BIND_AUTO_CREATE详解](https://nasdaqgodzilla.github.io/2022/06/16/Android-unbindService%E6%B5%81%E7%A8%8B%E4%B8%8EBIND-AUTO-CREATE%E8%AF%A6%E8%A7%A3/)
+- [Android bindService流程详解](https://nasdaqgodzilla.github.io/2022/06/15/Android-bindService%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
+- [#!的正确读法:Shebang](https://nasdaqgodzilla.github.io/2022/06/15/%E4%BA%95!%E7%9A%84%E6%AD%A3%E7%A1%AE%E8%AF%BB%E6%B3%95-Shebang/)
+- [归去来兮辞](https://nasdaqgodzilla.github.io/2022/06/14/%E5%BD%92%E5%8E%BB%E6%9D%A5%E5%85%AE%E8%BE%9E/)
+- [Android常用内存分析命令](https://nasdaqgodzilla.github.io/2022/06/13/Android%E5%B8%B8%E7%94%A8%E5%86%85%E5%AD%98%E5%88%86%E6%9E%90%E5%91%BD%E4%BB%A4/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
