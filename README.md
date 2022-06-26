@@ -106,11 +106,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Android unbindService流程与BIND_AUTO_CREATE详解](https://nasdaqgodzilla.github.io/2022/06/16/Android-unbindService%E6%B5%81%E7%A8%8B%E4%B8%8EBIND-AUTO-CREATE%E8%AF%A6%E8%A7%A3/)
-- [Android bindService流程详解](https://nasdaqgodzilla.github.io/2022/06/15/Android-bindService%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
-- [#!的正确读法:Shebang](https://nasdaqgodzilla.github.io/2022/06/15/%E4%BA%95!%E7%9A%84%E6%AD%A3%E7%A1%AE%E8%AF%BB%E6%B3%95-Shebang/)
-- [归去来兮辞](https://nasdaqgodzilla.github.io/2022/06/14/%E5%BD%92%E5%8E%BB%E6%9D%A5%E5%85%AE%E8%BE%9E/)
-- [Android常用内存分析命令](https://nasdaqgodzilla.github.io/2022/06/13/Android%E5%B8%B8%E7%94%A8%E5%86%85%E5%AD%98%E5%88%86%E6%9E%90%E5%91%BD%E4%BB%A4/)
+- [Android resizeTask流程详解](https://nasdaqgodzilla.github.io/2022/06/23/Android-resizeTask%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
+- [Android setTaskWindowingMode流程详解](https://nasdaqgodzilla.github.io/2022/06/23/Android-setTaskWindowingMode%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
+- [Android WindowManager continueSurfaceLayout流程](https://nasdaqgodzilla.github.io/2022/06/21/Android-WindowManager-continueSurfaceLayout%E6%B5%81%E7%A8%8B/)
+- [Android编译AOSP源码并生成模拟器镜像并运行](https://nasdaqgodzilla.github.io/2022/06/21/Android%E7%BC%96%E8%AF%91AOSP%E6%BA%90%E7%A0%81%E5%B9%B6%E7%94%9F%E6%88%90%E6%A8%A1%E6%8B%9F%E5%99%A8%E9%95%9C%E5%83%8F%E5%B9%B6%E8%BF%90%E8%A1%8C/)
+- [Android setRequestedOrientation流程详解](https://nasdaqgodzilla.github.io/2022/06/21/Android-setRequestedOrientation%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
