@@ -106,11 +106,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Android Studio导入AOSP系统源码](https://nasdaqgodzilla.github.io/2022/06/28/Android-Studio%E5%AF%BC%E5%85%A5AOSP%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81/)
 - [Android resizeTask流程详解](https://nasdaqgodzilla.github.io/2022/06/23/Android-resizeTask%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
 - [Android setTaskWindowingMode流程详解](https://nasdaqgodzilla.github.io/2022/06/23/Android-setTaskWindowingMode%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
 - [Android WindowManager continueSurfaceLayout流程](https://nasdaqgodzilla.github.io/2022/06/21/Android-WindowManager-continueSurfaceLayout%E6%B5%81%E7%A8%8B/)
 - [Android编译AOSP源码并生成模拟器镜像并运行](https://nasdaqgodzilla.github.io/2022/06/21/Android%E7%BC%96%E8%AF%91AOSP%E6%BA%90%E7%A0%81%E5%B9%B6%E7%94%9F%E6%88%90%E6%A8%A1%E6%8B%9F%E5%99%A8%E9%95%9C%E5%83%8F%E5%B9%B6%E8%BF%90%E8%A1%8C/)
-- [Android setRequestedOrientation流程详解](https://nasdaqgodzilla.github.io/2022/06/21/Android-setRequestedOrientation%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
