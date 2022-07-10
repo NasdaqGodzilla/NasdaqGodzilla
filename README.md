@@ -106,11 +106,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Android动态日志ProtoLog原理与架构: How ProtoLogTool works](https://nasdaqgodzilla.github.io/2022/07/08/Android%E5%8A%A8%E6%80%81%E6%97%A5%E5%BF%97ProtoLog%E5%8E%9F%E7%90%86%E4%B8%8E%E6%9E%B6%E6%9E%84-How-ProtoLogTool-works/)
+- [Android动态日志ProtoLog简介和使用](https://nasdaqgodzilla.github.io/2022/07/08/Android%E5%8A%A8%E6%80%81%E6%97%A5%E5%BF%97ProtoLog%E7%AE%80%E4%BB%8B%E5%92%8C%E4%BD%BF%E7%94%A8/)
+- [Android 11 setRequestedOrientation流程详解](https://nasdaqgodzilla.github.io/2022/07/06/Android-11-setRequestedOrientation%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
+- [Android 11 startActivity之ActivityStarter流程](https://nasdaqgodzilla.github.io/2022/07/05/Android-11-startActivity%E4%B9%8BActivityStarter%E6%B5%81%E7%A8%8B/)
 - [Android 11 WindowContainer窗口模型详解](https://nasdaqgodzilla.github.io/2022/07/03/Android-11-WindowContainer%E7%AA%97%E5%8F%A3%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3/)
-- [Android Studio导入AOSP系统源码](https://nasdaqgodzilla.github.io/2022/06/28/Android-Studio%E5%AF%BC%E5%85%A5AOSP%E7%B3%BB%E7%BB%9F%E6%BA%90%E7%A0%81/)
-- [Android resizeTask流程详解](https://nasdaqgodzilla.github.io/2022/06/23/Android-resizeTask%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
-- [Android setTaskWindowingMode流程详解](https://nasdaqgodzilla.github.io/2022/06/23/Android-setTaskWindowingMode%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
-- [Android WindowManager continueSurfaceLayout流程](https://nasdaqgodzilla.github.io/2022/06/21/Android-WindowManager-continueSurfaceLayout%E6%B5%81%E7%A8%8B/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
