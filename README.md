@@ -44,8 +44,7 @@
 <a href="https://medium.com/@aug3073911" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
 <br/>  
 
@@ -90,16 +89,20 @@
     <img src="https://github-profile-trophy.vercel.app/?username=NasdaqGodzilla&column=7" align="center"/>
 </div>
 
-<br/>  
+<br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NasdaqGodzilla&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasdaqGodzilla&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+    <img src="https://metrics.lecoq.io/nasdaqgodzilla?template=classic&isocalendar=1&isocalendar.duration=full-year" align="left" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NasdaqGodzilla&show_icons=true&count_private=true&hide_border=true" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasdaqGodzilla&hide_border=true&layout=compact" align="center" />
+</div>  
 
 <br/>  
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=NasdaqGodzilla&&style=flat-square" align="center" />
     <img src="https://profile-counter.glitch.me/NasdaqGodzilla/count.svg" align="center" />
-    <img src="https://count.getloli.com/get/@:NasdaqGodzilla" alt=":NasdaqGodzilla" />
+    <!--<img src="https://count.getloli.com/get/@:NasdaqGodzilla" alt=":NasdaqGodzilla" />-->
 </div> 
 
 <br/>
