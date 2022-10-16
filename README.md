@@ -117,11 +117,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [紫光展锐展讯SPRD刷机包pac文件解包提取img步骤](https://nasdaqgodzilla.github.io/2022/10/10/%E7%B4%AB%E5%85%89%E5%B1%95%E9%94%90%E5%B1%95%E8%AE%AFSPRD%E5%88%B7%E6%9C%BA%E5%8C%85pac%E6%96%87%E4%BB%B6%E8%A7%A3%E5%8C%85%E6%8F%90%E5%8F%96img%E6%AD%A5%E9%AA%A4/)
 - [记一次带宽压榨：多线多拨（多WAN口）实现网络性能改善](https://nasdaqgodzilla.github.io/2022/09/30/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%B8%A6%E5%AE%BD%E5%8E%8B%E6%A6%A8%EF%BC%9A%E5%A4%9A%E7%BA%BF%E5%A4%9A%E6%8B%A8%EF%BC%88%E5%A4%9AWAN%E5%8F%A3%EF%BC%89%E5%AE%9E%E7%8E%B0%E7%BD%91%E7%BB%9C%E6%80%A7%E8%83%BD%E6%94%B9%E5%96%84/)
 - [Android SystemWebview Chromoum源码拉取与编译](https://nasdaqgodzilla.github.io/2022/08/17/Android-SystemWebview-Chromoum%E6%BA%90%E7%A0%81%E6%8B%89%E5%8F%96%E4%B8%8E%E7%BC%96%E8%AF%91/)
 - [Clash配置暴露代理服务](https://nasdaqgodzilla.github.io/2022/08/15/Clash%E9%85%8D%E7%BD%AE%E6%9A%B4%E9%9C%B2%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1/)
 - [Android系统编译优化: 使用Ninja加快编译](https://nasdaqgodzilla.github.io/2022/08/08/Android%E7%B3%BB%E7%BB%9F%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96-%E4%BD%BF%E7%94%A8Ninja%E5%8A%A0%E5%BF%AB%E7%BC%96%E8%AF%91/)
-- [Android动态日志ProtoLog原理与架构: How ProtoLogTool works](https://nasdaqgodzilla.github.io/2022/07/08/Android%E5%8A%A8%E6%80%81%E6%97%A5%E5%BF%97ProtoLog%E5%8E%9F%E7%90%86%E4%B8%8E%E6%9E%B6%E6%9E%84-How-ProtoLogTool-works/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
