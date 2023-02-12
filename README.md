@@ -117,11 +117,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Android性能优化：getResources&lpar;&rpar;与Binder交火导致的界面卡顿优化](https://nasdaqgodzilla.github.io/2023/02/10/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%EF%BC%9AgetResources-%E4%B8%8EBinder%E4%BA%A4%E7%81%AB%E5%AF%BC%E8%87%B4%E7%9A%84%E7%95%8C%E9%9D%A2%E5%8D%A1%E9%A1%BF%E4%BC%98%E5%8C%96/)
 - [Android 13 WindowContainer窗口模型详解](https://nasdaqgodzilla.github.io/2023/01/25/Android-13-WindowContainer%E7%AA%97%E5%8F%A3%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3/)
 - [Android单条日志太长导致被截断的问题分析和解决](https://nasdaqgodzilla.github.io/2022/12/28/Android%E5%8D%95%E6%9D%A1%E6%97%A5%E5%BF%97%E5%A4%AA%E9%95%BF%E5%AF%BC%E8%87%B4%E8%A2%AB%E6%88%AA%E6%96%AD%E7%9A%84%E9%97%AE%E9%A2%98%E5%88%86%E6%9E%90%E5%92%8C%E8%A7%A3%E5%86%B3/)
 - [Android三方应用UI自动化测试探索](https://nasdaqgodzilla.github.io/2022/11/07/Android%E4%B8%89%E6%96%B9%E5%BA%94%E7%94%A8UI%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%8E%A2%E7%B4%A2/)
 - [Android性能优化：分析数据库事务性能瓶颈与优化方案](https://nasdaqgodzilla.github.io/2022/11/03/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%EF%BC%9A%E5%88%86%E6%9E%90%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%8B%E5%8A%A1%E6%80%A7%E8%83%BD%E7%93%B6%E9%A2%88%E4%B8%8E%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/)
-- [性能优化工具：CPU性能分析、调试和定频（MTK）](https://nasdaqgodzilla.github.io/2022/11/03/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E5%B7%A5%E5%85%B7%EF%BC%9ACPU%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E3%80%81%E8%B0%83%E8%AF%95%E5%92%8C%E5%AE%9A%E9%A2%91%EF%BC%88MTK%EF%BC%89/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
