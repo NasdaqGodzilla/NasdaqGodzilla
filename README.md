@@ -117,11 +117,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Android BatteryStats服务功耗统计流程详解](https://nasdaqgodzilla.github.io/2023/06/17/Android-BatteryStats%E6%9C%8D%E5%8A%A1%E5%8A%9F%E8%80%97%E7%BB%9F%E8%AE%A1%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3/)
 - [Android后台驻留：保活和回收的机制](https://nasdaqgodzilla.github.io/2023/06/03/Android%E5%90%8E%E5%8F%B0%E9%A9%BB%E7%95%99%EF%BC%9A%E4%BF%9D%E6%B4%BB%E5%92%8C%E5%9B%9E%E6%94%B6%E7%9A%84%E6%9C%BA%E5%88%B6/)
 - [Android性能监控：主循环性能统计LooperStatsService详解](https://nasdaqgodzilla.github.io/2023/05/05/Android%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7%EF%BC%9A%E4%B8%BB%E5%BE%AA%E7%8E%AF%E6%80%A7%E8%83%BD%E7%BB%9F%E8%AE%A1LooperStatsService%E8%AF%A6%E8%A7%A3/)
 - [LutFilter：3D LUT简介与应用](https://nasdaqgodzilla.github.io/2023/04/24/LutFilter%EF%BC%9A3D-LUT%E7%AE%80%E4%BB%8B%E4%B8%8E%E5%BA%94%E7%94%A8/)
 - [Android性能优化：getResources&lpar;&rpar;与Binder交火导致的界面卡顿优化](https://nasdaqgodzilla.github.io/2023/02/10/Android%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%EF%BC%9AgetResources-%E4%B8%8EBinder%E4%BA%A4%E7%81%AB%E5%AF%BC%E8%87%B4%E7%9A%84%E7%95%8C%E9%9D%A2%E5%8D%A1%E9%A1%BF%E4%BC%98%E5%8C%96/)
-- [Android 13 WindowContainer窗口模型详解](https://nasdaqgodzilla.github.io/2023/01/25/Android-13-WindowContainer%E7%AA%97%E5%8F%A3%E6%A8%A1%E5%9E%8B%E8%AF%A6%E8%A7%A3/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
