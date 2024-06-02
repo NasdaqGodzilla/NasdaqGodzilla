@@ -100,11 +100,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Linux container_of详解](https://nasdaqgodzilla.github.io/2024/05/30/Linux-container-of%E8%AF%A6%E8%A7%A3/)
+- [显示系统稳定性：Kernel模块加载顺序和i2c漏电导致的花屏问题](https://nasdaqgodzilla.github.io/2024/05/29/%E6%98%BE%E7%A4%BA%E7%B3%BB%E7%BB%9F%E7%A8%B3%E5%AE%9A%E6%80%A7%EF%BC%9AKernel%E6%A8%A1%E5%9D%97%E5%8A%A0%E8%BD%BD%E9%A1%BA%E5%BA%8F%E5%92%8Ci2c%E6%BC%8F%E7%94%B5%E5%AF%BC%E8%87%B4%E7%9A%84%E8%8A%B1%E5%B1%8F%E9%97%AE%E9%A2%98/)
 - [MTK LED驱动节点创建和读写流程](https://nasdaqgodzilla.github.io/2024/04/07/MTK-LED%E9%A9%B1%E5%8A%A8%E8%8A%82%E7%82%B9%E5%88%9B%E5%BB%BA%E5%92%8C%E8%AF%BB%E5%86%99%E6%B5%81%E7%A8%8B/)
 - [Android Emulator运行自定义的AOSP镜像](https://nasdaqgodzilla.github.io/2024/03/20/Android-Emulator%E8%BF%90%E8%A1%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E7%9A%84AOSP%E9%95%9C%E5%83%8F/)
 - [在Apple Mac M1上编译AOSP ARM Android模拟器](https://nasdaqgodzilla.github.io/2024/03/20/%E5%9C%A8Apple-Mac-M1%E4%B8%8A%E7%BC%96%E8%AF%91AOSP-ARM-Android%E6%A8%A1%E6%8B%9F%E5%99%A8/)
-- [拉取并编译AOSP Android 14模拟器](https://nasdaqgodzilla.github.io/2024/03/19/%E6%8B%89%E5%8F%96%E5%B9%B6%E7%BC%96%E8%AF%91AOSP-Android-14%E6%A8%A1%E6%8B%9F%E5%99%A8/)
-- [Android bpf简单上手教程](https://nasdaqgodzilla.github.io/2023/08/23/Android-bpf%E7%AE%80%E5%8D%95%E4%B8%8A%E6%89%8B%E6%95%99%E7%A8%8B/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>
