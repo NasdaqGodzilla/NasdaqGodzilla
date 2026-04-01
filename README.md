@@ -17,7 +17,6 @@
     
 <br/>
 
-## 📫 Connect with me
 <div align="center">
     <a href="https://juejin.cn/user/1253888000539070" target="_blank">
         <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91Juejin-%E9%A3%9E%E8%B5%B7%E6%9D%A5__%E9%A3%9E%E8%BF%87%E6%9D%A5-blue?style=social&logo=appveyor" />
@@ -53,16 +52,15 @@
 </div>
 <br/>  
 
-## Skill Set  
 <table align="center"><tr><td valign="top" align="center">
 
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" />  
 </div>
 
 </td></tr></table>  
