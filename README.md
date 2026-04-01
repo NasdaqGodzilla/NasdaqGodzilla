@@ -47,11 +47,11 @@
 <a href="https://medium.com/@aug3073911" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> 
--->
-    
+--> 
 </div>
 <br/>  
 
+<!--
 <table align="center"><tr><td valign="top" align="center">
 
 <div style="display: flex; 
@@ -72,6 +72,7 @@
 </td></tr></table>  
 
 <br/>  
+-->
 
 <!--
 ----
