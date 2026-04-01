@@ -90,7 +90,7 @@
             <div align="center">
                 <img src="https://komarev.com/ghpvc/?username=NasdaqGodzilla&&style=flat-square"/>
                 <img src="https://profile-counter.glitch.me/NasdaqGodzilla/count.svg"/>
-                <!--<img src="https://count.getloli.com/get/@:NasdaqGodzilla" alt=":NasdaqGodzilla" />-->
+                <img src="https://count.getloli.com/get/@:NasdaqGodzilla" alt=":NasdaqGodzilla" />
             </div> 
         </td>
     </tr></table>
