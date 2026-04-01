@@ -82,14 +82,11 @@
 <div align="center">
     <table><tr>
         <td width="60%">
-            <!-- Metrics -->
             <img src="https://metrics.lecoq.io/nasdaqgodzilla?template=classic&isocalendar=1&isocalendar.duration=full-year"/>
         </td>
         <td>
-            <!-- Github Stats -->
             <img src="https://github-readme-stats.vercel.app/api?username=NasdaqGodzilla&show_icons=true&count_private=true&hide_border=true"/>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasdaqGodzilla&hide_border=true&layout=compact"/>
-            <!-- Visitor counter -->
             <div align="center">
                 <img src="https://komarev.com/ghpvc/?username=NasdaqGodzilla&&style=flat-square"/>
                 <img src="https://profile-counter.glitch.me/NasdaqGodzilla/count.svg"/>
