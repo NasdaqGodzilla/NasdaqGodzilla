@@ -5,7 +5,7 @@
     <td><img src="https://rishavanand.github.io/static/images/greetings.gif" align="right|top"/></td>
 </tr></table>
 
-### <div align="center">I'm Niko Zhong, an Android developer. Also interested in Linux, KVM, QEMU and tech of container.</div>  
+### <div align="center">Android, AOSP, Linux, AI, RTOS</div>  
 
 <p align="center">
     <b><a href="https://github.com/NasdaqGodzilla/FrameworkInjector">&lt;🌟FrameworkInjector🌟&gt;</a></b>
@@ -111,4 +111,4 @@
 ----
 
 ## My Contribution snake
-![Contribution snake example](https://github.com/NasdaqGodzilla/NasdaqGodzilla/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Contribution snake example](https://github.com/NasdaqGodzilla/NasdaqGodzilla/blob/output/github-contribution-grid-snake.svg) -->
