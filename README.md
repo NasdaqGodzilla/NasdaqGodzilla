@@ -1,5 +1,3 @@
-### ✨ Hi there 👋 ✨
-
 <table><tr>
     <td><img src="https://octodex.github.com/images/topguntocat.png" align="left" /></td>
     <td><img src="https://rishavanand.github.io/static/images/greetings.gif" align="right|top"/></td>
@@ -71,6 +69,7 @@
 
 <br/>  
 
+<!--
 ----
 
 ## Github Stats
@@ -101,6 +100,7 @@
 </div>  
 
 <br/>
+-->
 
 ----
 
