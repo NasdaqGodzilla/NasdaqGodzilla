@@ -54,13 +54,19 @@
 
 <table align="center"><tr><td valign="top" align="center">
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" />  
+<div style="display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            flex-wrap: nowrap; 
+            gap: 10px; 
+            overflow-x: auto; 
+            width: 100%;">  
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" />  
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" />  
 </div>
 
 </td></tr></table>  
